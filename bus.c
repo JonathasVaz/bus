@@ -89,7 +89,7 @@ int main() {
         printf("\nDigite (3) para ver todas poltronas.");
         printf("\nDigite (4) para comprar passagem.");
         printf("\nDigite (5) para cancelar passagem.");
-		printf("\nDigite (0) para sair. ->\n------------------------------------------- ");
+		printf("\nDigite (0) para sair. \n-------------------------------------------> ");
         
         if (scanf("%d", &escolha) != 1) { 
             printf("Entrada inválida. Por favor, insira um número válido.\n");
